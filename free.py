@@ -1,0 +1,3 @@
+import randxm
+
+randxm.main()
